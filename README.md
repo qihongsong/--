@@ -6,7 +6,7 @@
 一说到江湖，每个人想到的都是刀光血影的侠客生活，其实江湖就在我们身边，天南海北讨生活的每一个人，都在江湖。只不过古代的江湖长袍马褂，现代的江湖西装革履.
 
 ##### 目录
-[第一章](https://github.com/qihongsong/Jin-JiaFan/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)
+[第一章](第一章.md)
 
 [第二章](https://github.com/qihongsong/Jin-JiaFan/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0.md)
 
