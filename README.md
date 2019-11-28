@@ -8,4 +8,4 @@
 ##### 目录
 [第一章](https://github.com/qihongsong/Jin-JiaFan/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)
 
-[第二章]（https://github.com/qihongsong/Jin-JiaFan/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0.md）
+[第二章](https://github.com/qihongsong/Jin-JiaFan/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0.md)
